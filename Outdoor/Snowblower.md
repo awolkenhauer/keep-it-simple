@@ -15,11 +15,11 @@
 
 ## Preparing for summer
 
-###Recommend time frame: End of May
+### Recommend time frame: End of May
 
-1. Turn the valve from the gas tank to the off position. (If your machine does not have a shutoff then the tank/carburetor will need to be drained)
+1. Turn the valve leading to the gas tank to the off position. (Some machines don't have a shutoff, in that case the tank/carburetor need to be drained)
 2. Run the snowblower till it runs out of gas.
-3. Add fuel stabilizer to the remaining tank fuel.
+3. Add fuel stabilizer to the remaining fuel in the tank.
 
 ### Recommended stabilizers
 [STA-BIL® Storage Fuel Stabilizer](https://www.menards.com/main/tools/automotive/automotive-maintenance/automotive-fluids-chemicals/sta-bil-reg-storage-fuel-stabilizer/22214/p-1444429046586.htm)
