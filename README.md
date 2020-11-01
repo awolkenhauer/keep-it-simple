@@ -1,2 +1,2 @@
-# keep-it-simple
+# Keep-It-Simple
 Maintenance tips for homeowners
