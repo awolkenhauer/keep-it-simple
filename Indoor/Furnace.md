@@ -5,7 +5,7 @@
 ### Recommend time frame: Once a month
 
 1. Locate the filter compartment. It is typically found between the return air duct and the furnace, then remove the old filter.
-2. Unwrap the new filter from and plastic packaging
+2. Unwrap the new filter from any plastic packaging
 3. Place in the new filter in the slot.
 
 ### Notes: 
