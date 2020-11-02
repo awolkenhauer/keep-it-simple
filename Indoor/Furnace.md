@@ -9,6 +9,6 @@
 3. Place the new filter in the filter compartment.
 
 ### Notes: 
-* To find the size of your system’s filter, slide the old filter out of the filter cabinet. Most filters have the dimensions printed on their frame in length x width x height format.
+* To find the size of your system’s filter, slide the old filter out of the filter compartment. Most filters have the dimensions printed on their frame in length x width x height format.
 * A good time to change the filter is right after paying the home mortgage.
 
